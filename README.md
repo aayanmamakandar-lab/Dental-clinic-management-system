@@ -6,7 +6,7 @@ A comprehensive, production-quality **Dental Clinic Management System** built wi
 
 It also ships with a suite of **offline, rule-based AI tools** (symptom checker, chatbot, cost estimator, no‑show risk) that require **no API keys** and no paid services.
 
-> Built for the **lazycoder** YouTube channel as a full, end-to-end reference project.
+> Built for the **Aayan Makandar** YouTube channel as a full, end-to-end reference project.
 
 ---
 
@@ -205,4 +205,4 @@ This project is released under the **MIT License**. It is provided for education
 
 ---
 
-Made with care for **lazycoder** — happy coding! 🦷
+Made with care for **Aayan Makandar** — happy coding! 🦷
